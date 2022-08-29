@@ -1,4 +1,9 @@
-# vue-cli
+# vue3 covid tracker dashboard
+```
+Displaying global data and country data based on selected options.
+API data coming from covid19api.com
+```
+
 
 ## Project setup
 ```
